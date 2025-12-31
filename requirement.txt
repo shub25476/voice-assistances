@@ -1,0 +1,7 @@
+pyttsx3
+pypiwin32
+speechRecognition
+wikipedia
+sounddevice
+numpy
+scipy
